@@ -1,0 +1,19 @@
+# Includes the list of all dependencies required to run setup() and use the package
+# Also used in testing workflow and to host the documentation on Read the Docs
+
+numpy
+dash==1.2.0
+dash-daq==0.1.0
+pint
+guppy3
+pytest
+sphinx==5.3.0
+myst-nb
+sphinx-rtd-theme
+sphinx-copybutton
+sphinx-autoapi
+sphinx-code-include
+jupyter-sphinx
+numpydoc
+gitpython
+sphinxcontrib-bibtex
